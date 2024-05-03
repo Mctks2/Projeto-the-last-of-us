@@ -1,8 +1,6 @@
 # Projeto The Last of Us 
 Lading page da série The Last of Us.
 
-Link de produção: https://mctks2.github.io/Projeto-the-last-of-us/
-
 ## 🛠️ Tecnologias utilizadas
 - HTML
 - CSS
